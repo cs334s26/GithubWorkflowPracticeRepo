@@ -1,7 +1,10 @@
 # GithubWorkflowPracticeRepo
-Practice repo for Github worklow
+Practice repo for Github workflow
+
+Michael was here
+- Rafael Garcia Jr.
+- Jack Drabic
+- Meow meow meow mewow
+- meowww
 Hi I have crashed the README!
-Jack Drabic
-Meow meow meow mewow
-meowww
 
