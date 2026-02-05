@@ -2,5 +2,7 @@
 Practice repo for Github workflow
 
 - Rafael Garcia Jr.
-Meow meow meow mewow
-meowww
+- Jack Drabic
+- Meow meow meow mewow
+- meowww
+
